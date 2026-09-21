@@ -1,0 +1,165 @@
+{
+  "schemaVersion": "1.0",
+  "id": "modern-table",
+  "name": "Modern Table",
+  "version": "0.1.0",
+  "type": "table-pack",
+  "entry": {
+    "setup": "setup.json"
+  },
+  "assets": [
+    "Metal042A_1K-JPG_Displacement.webp",
+    "Metal042A_1K-JPG_Metalness.webp",
+    "Metal042A_1K-JPG_NormalGL.webp",
+    "Metal042A_1K-JPG_Roughness.webp",
+    "media/cover-thumb.webp",
+    "media/cover.webp",
+    "media/screenshot-0.webp",
+    "models/dining-table-extracted.glb",
+    "models/dining-table-extracted.meta.json",
+    "textures/dining-table-extracted/table-marble-arm-1k-938b893b.jpg",
+    "textures/dining-table-extracted/table-marble-diff-1k-2149d3fa.jpg",
+    "textures/dining-table-extracted/table-marble-nor-1k-a08ece12.jpg",
+    "textures/dining-table-extracted/table-metal-arm-1k-392048bb.jpg",
+    "textures/dining-table-extracted/table-metal-diff-1k-d60a8801.jpg",
+    "textures/dining-table-extracted/table-metal-nor-1k-30431000.jpg"
+  ],
+  "compatibility": {
+    "engine": ">=0.1 <1.0"
+  },
+  "license": "MIT",
+  "tags": [
+    "modern",
+    "marble",
+    "metal",
+    "sleek",
+    "large"
+  ],
+  "credits": [
+    {
+      "id": "credit-7f667b00-de09-4245-bb75-3f5117802a76",
+      "paths": [
+        "models/dining-table-extracted.glb",
+        "models/dining-table-extracted.meta.json",
+        "textures/dining-table-extracted/table-marble-arm-1k-938b893b.jpg",
+        "textures/dining-table-extracted/table-marble-diff-1k-2149d3fa.jpg",
+        "textures/dining-table-extracted/table-marble-nor-1k-a08ece12.jpg",
+        "textures/dining-table-extracted/table-metal-arm-1k-392048bb.jpg",
+        "textures/dining-table-extracted/table-metal-diff-1k-d60a8801.jpg",
+        "textures/dining-table-extracted/table-metal-nor-1k-30431000.jpg"
+      ],
+      "origin": "third-party",
+      "title": "Modern Dining Room",
+      "creator": "dylanheyes",
+      "creatorUrl": "https://sketchfab.com/dylanheyes",
+      "sourceUrl": "https://sketchfab.com/3d-models/modern-dining-room-df3f3c9f6233447eb8b7ee129f3bace5",
+      "licenseName": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "recordedAt": "2026-09-21T22:55:14.655Z",
+      "attestation": {
+        "termsVersion": "2026-09-07.1",
+        "acceptedAt": "2026-09-21T22:55:14.655Z",
+        "signedName": "Matt Larson"
+      }
+    },
+    {
+      "id": "credit-841a2ee7-0290-4c8c-aa75-00dd13e39825",
+      "paths": [
+        "Metal042A_1K-JPG_Metalness.webp",
+        "originals/Metal042A_1K-JPG_Metalness.jpg"
+      ],
+      "origin": "disclaimed",
+      "recordedAt": "2026-09-21T23:04:21.163Z",
+      "attestation": {
+        "termsVersion": "2026-09-07.1",
+        "acceptedAt": "2026-09-21T23:04:21.163Z",
+        "signedName": "Matt Larson"
+      }
+    },
+    {
+      "id": "credit-79689e10-8c15-4b3e-b75e-10b8760f61b0",
+      "paths": [
+        "Metal042A_1K-JPG_Roughness.webp",
+        "originals/Metal042A_1K-JPG_Roughness.jpg"
+      ],
+      "origin": "disclaimed",
+      "recordedAt": "2026-09-21T23:05:05.304Z",
+      "attestation": {
+        "termsVersion": "2026-09-07.1",
+        "acceptedAt": "2026-09-21T23:05:05.304Z",
+        "signedName": "Matt Larson"
+      }
+    },
+    {
+      "id": "credit-a4f81d59-1af9-4dcd-8c01-037fa929f9ce",
+      "paths": [
+        "Metal042A_1K-JPG_Displacement.webp",
+        "originals/Metal042A_1K-JPG_Displacement.jpg"
+      ],
+      "origin": "disclaimed",
+      "recordedAt": "2026-09-21T23:05:47.012Z",
+      "attestation": {
+        "termsVersion": "2026-09-07.1",
+        "acceptedAt": "2026-09-21T23:05:47.012Z",
+        "signedName": "Matt Larson"
+      }
+    },
+    {
+      "id": "credit-d386ddaf-8b50-46b8-9ddb-ae202a1150e0",
+      "paths": [
+        "Metal042A_1K-JPG_NormalGL.webp",
+        "originals/Metal042A_1K-JPG_NormalGL.jpg"
+      ],
+      "origin": "disclaimed",
+      "recordedAt": "2026-09-21T23:09:32.805Z",
+      "attestation": {
+        "termsVersion": "2026-09-07.1",
+        "acceptedAt": "2026-09-21T23:09:32.805Z",
+        "signedName": "Matt Larson"
+      }
+    },
+    {
+      "id": "credit-b8f2ea13-da52-4934-902b-83d30a0df4be",
+      "paths": [
+        "media/cover-thumb.webp",
+        "media/cover.webp"
+      ],
+      "origin": "own-work",
+      "recordedAt": "2026-09-21T23:29:20.007Z",
+      "attestation": {
+        "termsVersion": "2026-09-07.1",
+        "acceptedAt": "2026-09-21T23:29:20.007Z",
+        "signedName": "Matt Larson"
+      }
+    },
+    {
+      "id": "credit-95d22c20-b7a4-4ea1-a4be-0b434c0047ab",
+      "paths": [
+        "media/screenshot-0.webp"
+      ],
+      "origin": "own-work",
+      "recordedAt": "2026-09-21T23:29:28.079Z",
+      "attestation": {
+        "termsVersion": "2026-09-07.1",
+        "acceptedAt": "2026-09-21T23:29:28.079Z",
+        "signedName": "Matt Larson"
+      }
+    }
+  ],
+  "slug": "modern-table",
+  "description": "Modern Table",
+  "summary": "Modern Table",
+  "category": "table-modern",
+  "coverImage": "media/cover.webp",
+  "screenshots": [
+    {
+      "path": "media/screenshot-0.webp",
+      "crop": {
+        "x": 0,
+        "y": 0.009300341296928305,
+        "w": 1,
+        "h": 0.9813993174061434
+      }
+    }
+  ]
+}
