@@ -3,13 +3,13 @@
   "rendererVersion": 1,
   "entries": {
     "@materials/mat-133a1767-18fd-47e2-891b-59196e73ff30": {
-      "inputHash": "55147d76dd7c907c",
+      "inputHash": "82f16b28b4067779",
       "file": "thumbnails/@materials/mat-133a1767-18fd-47e2-891b-59196e73ff30.webp",
       "width": 256,
       "height": 256
     },
     "@materials/mat-a679eda5-6796-4226-bf11-ebba72b8214b": {
-      "inputHash": "d7eefe92aee459a6",
+      "inputHash": "caed86424aaed9cc",
       "file": "thumbnails/@materials/mat-a679eda5-6796-4226-bf11-ebba72b8214b.webp",
       "width": 256,
       "height": 256
@@ -57,7 +57,7 @@
       "height": 144
     },
     "models/dining-table-extracted.glb": {
-      "inputHash": "a55132e37caacccb",
+      "inputHash": "f9437c7ac6392328",
       "file": "thumbnails/models/dining-table-extracted.glb.webp",
       "width": 256,
       "height": 256
@@ -110,21 +110,9 @@
       "width": 256,
       "height": 256
     },
-    "textures/dining-table-extracted/table-metal-arm-1k-392048bb.jpg": {
-      "inputHash": "6e680258741d8092",
-      "file": "thumbnails/textures/dining-table-extracted/table-metal-arm-1k-392048bb.jpg.webp",
-      "width": 256,
-      "height": 256
-    },
     "textures/dining-table-extracted/table-metal-diff-1k-d60a8801.jpg": {
       "inputHash": "92e47dd8b20afd1e",
       "file": "thumbnails/textures/dining-table-extracted/table-metal-diff-1k-d60a8801.jpg.webp",
-      "width": 256,
-      "height": 256
-    },
-    "textures/dining-table-extracted/table-metal-nor-1k-30431000.jpg": {
-      "inputHash": "8b0ad16883aaf519",
-      "file": "thumbnails/textures/dining-table-extracted/table-metal-nor-1k-30431000.jpg.webp",
       "width": 256,
       "height": 256
     }
