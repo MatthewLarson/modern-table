@@ -6,7 +6,7 @@
 
 ---
 
-Modern Table
+A beautiful, modern table made of white marble and distressed brass.
 
 ---
 
