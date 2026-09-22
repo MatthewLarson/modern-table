@@ -1,6 +1,14 @@
 {
+  "material": "tile",
+  "locked": true,
   "materialSlots": {
     "Table_Marble": "mat-a679eda5-6796-4226-bf11-ebba72b8214b",
     "Table_Metal": "mat-133a1767-18fd-47e2-891b-59196e73ff30"
-  }
+  },
+  "lightmapStatic": true,
+  "mass": 0.26,
+  "friction": 0.7,
+  "restitution": 0.15,
+  "linearDamping": 0.1,
+  "angularDamping": 0.2
 }
